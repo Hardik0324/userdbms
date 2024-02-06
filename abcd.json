@@ -1,0 +1,6306 @@
+{
+  "Abohar": {
+    "link": "https://www.swiggy.com/city/abohar",
+    "restaurants": {
+      "156587": {
+        "name": "Bharawan Da Dhaba",
+        "rating": "4.4",
+        "rating_count": "50+ ratings",
+        "cost": "₹ 300",
+        "address": "Bharawan Da Dhaba, rimpy bakery 12 circular road main bazar abohar",
+        "cuisine": "Indian",
+        "lic_no": "license",
+        "menu": {
+          "Delicious Khana Khazana": {
+            "Dal Fry": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Handi": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Fry Yellow": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Makhani": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Maharani": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Channa Masala": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Masala": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tikka Butter Masala": {
+              "price": "230",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tomato": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Shahi Paneer": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jeera Aloo": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadai Paneer": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kaju Palak": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Corn": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn Masala": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malai Kofta": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Handi": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mutter Mushroom": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mutter Paneer": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Methi Malai Mutter": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadi Pakoda": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Kofta": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Masala": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Kofta": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Aloo": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Gobi": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Paneer": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Bhurji": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dum Aloo": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Gravy": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Irani Paneer": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg  Pulav": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Veg": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Do Pyaza": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Mutter": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Do Pyaza": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Green Salad": {
+            "Green Salad": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Salad": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fruit Cream Salad": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fruit Salad": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Cucumber Salad": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Basmati Ki Mehak": {
+            "Plain Rice": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jeera Rice": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Angan Ki Kali": {
+            "Plain Dahi": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Boondi Raita": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Raita": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pineapple Raita": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fruits Raita": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Raita": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Breakfast": {
+            "Aloo Paratha": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Paratha": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Paratha": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix  Paratha": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Roti And Naan": {
+            "Plain Chapati": {
+              "price": "7",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Chapati": {
+              "price": "8",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Naan": {
+              "price": "35",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Naan": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Stuff Naan": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Naan": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Laccha Paratha": {
+              "price": "35",
+              "veg_or_non_veg": "Veg"
+            },
+            "Missi Roti": {
+              "price": "19",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Roti": {
+              "price": "19",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Papad": {
+              "price": "15",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Fast Food And Snacks": {
+            "Channa Chat": {
+              "price": "189",
+              "veg_or_non_veg": "Veg"
+            },
+            "Channa Fry": {
+              "price": "189",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli Dry": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli Gravy": {
+              "price": "320",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chowmein": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Finger Chips": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Manchurian Dry": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Manchurian Gravy": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Pakora": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spring Roll": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Noodles": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Burger": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Finger (8 Pcs)": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Burger": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Burger": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/bharawan-da-dhaba-central-abohar-abohar-156587"
+      },
+      "156588": {
+        "name": "shere punjab veg",
+        "rating": "4.0",
+        "rating_count": "100+ ratings",
+        "cost": "₹ 150",
+        "address": "shere punjab veg, major surinder chowk near verma sons petrol pump and lic building abohar",
+        "cuisine": "North Indian",
+        "lic_no": "22120652000021",
+        "menu": {
+          "Recommended": {
+            "Chana Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Vegetable": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Makhani": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Gobi": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Fry": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Yellow Dal Tadka": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadhi Pakora": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Do Pyaza": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Gravy": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadai Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Punjabi Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tikka Butter Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tomato": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malai Kofta": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Shahi Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Bhurji": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sarso Ka Saag Makhani": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dum Aloo": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mattar Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Chapati": {
+              "price": "7",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Chapati": {
+              "price": "6",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Naan": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Biryani": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Pulao": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli Gravy": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian Gravy": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Finger": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Family Binge Combos": {
+            "Chana Masala (Without Onion + Garlic) + Mix Veg (Without Onion + Garlic) + Veg Biryani (Without Onion + Garlic) + 4 Butter Naan": {
+              "price": "735",
+              "veg_or_non_veg": "Veg"
+            },
+            "Punjabi Paneer (Without Onion + Garlic) + Veg Biryani (Without Onion + Garlic) + 4 Missi Chapati": {
+              "price": "523",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tomato (Without Onion + Garlic) + Chesse Butter Masala (Without Onion + Garlic) + 4 Butter Naan": {
+              "price": "515",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Paneer (Without Onion + Garlic) + Veg Biryani (Without Onion + Garlic) + Veg Pulao (Without Onion + Garlic)": {
+              "price": "655",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Vegetable": {
+            "Chana Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Vegetable": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Palak Mattar": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Palak Kaju": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Jeera Aloo": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Palak": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Maharani": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Makhani": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Gobi": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Fry": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Yellow Dal Tadka": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadhi Pakora": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Jeera Aloo": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Gobi Masala": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Baingan Bartha Makhani": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadhi Paneer Kofta": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Soya Butter Chaap Gravy": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Malai Mattar": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Do Pyaza": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Gravy": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Kaju Butter Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Shahi Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Malai Kofta": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Punjabi Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Paneer Do Pyaza": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Badami Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Kaju Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Korma": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadai Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Paneer Masala": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Punjabi Paneer": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tikka Butter Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tomato": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malai Kofta": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Shahi Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Bhurji": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mattar Do Pyaza": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Stuff Tomato": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Malai Kofta": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Mattar": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Saag Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sarso Ka Saag Makhani": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dum Aloo": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mattar Paneer": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Handi": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Sev Bhaji": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Paratha": {
+            "Potato Onion Parantha": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Parantha": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Parantha": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Parantha": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Chapati & Naan": {
+            "Butter Chapati": {
+              "price": "7",
+              "veg_or_non_veg": "Veg"
+            },
+            "Missi Chapati": {
+              "price": "19",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Chapati": {
+              "price": "6",
+              "veg_or_non_veg": "Veg"
+            },
+            "Churidar Parantha": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Pyaz Mini Parantha": {
+              "price": "22",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Parantha": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Naan": {
+              "price": "85",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Naan": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Butter Naan": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Rice": {
+            "Veg Biryani": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Jeera Rice": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Jeera Rice": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Pulao": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Jeera Rice": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Snacks": {
+            "Potato Chilli": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli Gravy": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian Gravy": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Chilli": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Finger": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chana Fry": {
+              "price": "189",
+              "veg_or_non_veg": "Veg"
+            },
+            "Potato Chips": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papad Masala": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papad Dry": {
+              "price": "21",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papad Fry": {
+              "price": "31",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Salad": {
+            "Cream Salad": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Salad": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/shere-punjab-veg-central-krishna-nagri-abohar-156588"
+      },
+      "156590": {
+        "name": "Sethi Milk Badam",
+        "rating": "4.2",
+        "rating_count": "20+ ratings",
+        "cost": "₹ 100",
+        "address": "Sethi Milk Badam, main bazar street no 11 abohar",
+        "cuisine": "Sweets,Desserts",
+        "lic_no": "22119652000039",
+        "menu": {
+          "Desserts": {
+            "Julie 2pc": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kulfi Simple 1pc": {
+              "price": "20",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spongy Rasgulla Per Pc": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Faluda Rabri Per Glass": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kulfi Big 1 Pc": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Beverages": {
+            "Badam Milk (200 Ml) Bottle": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/sethi-milk-badam-central-krishna-nagri-abohar-156590"
+      },
+      "156601": {
+        "name": "Jodhpuri Kachori",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 100",
+        "address": "Jodhpuri Kachori, mandi 1 street no 4 main bazar near sbi bank abohar",
+        "cuisine": "Snacks",
+        "lic_no": "22121652000387",
+        "menu": {
+          "Snacks And Chat": {
+            "Dry Fruit Bhalla": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Stuffed Golgappe": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papadi Chat": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Dahi Bhalla": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kachori": {
+              "price": "20",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rajbhog": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/jodhpuri-kachori-central-main-bazar-abohar-156601"
+      },
+      "156602": {
+        "name": "Hinglaj Kachori Bhandhar",
+        "rating": "4.2",
+        "rating_count": "20+ ratings",
+        "cost": "₹ 100",
+        "address": "Hinglaj Kachori Bhandhar, street no 11 circular road ,Abohar",
+        "cuisine": "Snacks,Chaat",
+        "lic_no": "22119652000042",
+        "menu": {
+          "Recommended": {
+            "Dahi Bhalla": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Bhalla": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Rajbhog": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Panipuri (12 Pcs)": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Panipuri Atta (12 Pcs)": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pyaz Kachori": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papdi Chaat": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Stuffed Golgappa": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Snacks": {
+            "Dahi Bhalla": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Bhalla": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Rajbhog": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Panipuri (12 Pcs)": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Panipuri Atta (12 Pcs)": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pyaz Kachori": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papdi Chaat": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Stuffed Golgappa": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Combao Pck": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Combo 3": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/hinglaj-kachori-bhandhar-central-main-bazar-abohar-156602"
+      },
+      "158192": {
+        "name": "Tandoori Nights",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 300",
+        "address": "Tandoori Nights, near civil hospital canteen abohar",
+        "cuisine": "Tandoor",
+        "lic_no": "22121652000229",
+        "menu": {
+          "Snacks": {
+            "Peanut Masala": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Finger Chips": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn Chat": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Soya Chaap": {
+            "Tandoori Malai Chaap": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Chaap": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jeera Chaap": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "KFC Chaap": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fried Chaap": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Veg Snacks": {
+            "Tandoori Cheese Tikka": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Cheese Malai Tikka": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Finger": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Jeera": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Lemon Cheese": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Non-Veg": {
+            "Tandoori Chicken": {
+              "price": "160",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tandoori Chicken Afghani": {
+              "price": "170",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tandoori Chicken Kali Mirch": {
+              "price": "170",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tandoori Lemon Chicken": {
+              "price": "160",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tandoori Creamy Chicken": {
+              "price": "190",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tandoori Chicken Tikka": {
+              "price": "300",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Malai Tikka": {
+              "price": "350",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Kali Mirch Tikka": {
+              "price": "330",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tawa Chicken": {
+              "price": "280",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Pakora": {
+              "price": "270",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "KFC Chicken": {
+              "price": "290",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Jeera Chicken": {
+              "price": "270",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Lemon Chicken": {
+              "price": "270",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chilli Chicken": {
+              "price": "330",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Punjabi Chicken": {
+              "price": "270",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Masala Chicken": {
+              "price": "280",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Kadai Chicken": {
+              "price": "270",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Butter Chicken": {
+              "price": "290",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Do Pyaza": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Rara Chicken": {
+              "price": "280",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Pepper Chicken": {
+              "price": "300",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Special Methi Malai Chicken": {
+              "price": "290",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Egg": {
+            "Omelette": {
+              "price": "70",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Bhurji": {
+              "price": "80",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Salad": {
+            "Onion Salad": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kheera Salad": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Salad": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Special Cacumber Salad": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Raita": {
+            "Mixed Raita": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Boondi Raita": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peanut Raita": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dahi Tadka": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dahi Papdi": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Dahi": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Veg Main Course": {
+            "Kadai Chaap": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Chaap": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Chaap": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Punjabi Chaap Tari": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Methi Malai": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Shahi Paneer": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadai Paneer": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Paneer": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tomato": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Masala": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/tandoori-nights-central-abohar-abohar-158192"
+      },
+      "158193": {
+        "name": "yummy hub",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 200",
+        "address": "yummy hub, hanumangarh road near dr naveen sethi hospitalabohar",
+        "cuisine": "Indian",
+        "lic_no": "22119652000045",
+        "menu": {
+          "Indian": {
+            "Pani Puri 12 Pcs": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Tikki With Chole": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Samosa With Chole": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Samosa With Chatni": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papdi": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Raj Kachori": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Rahbhog": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Bhalla": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dahi Bhalla": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Patties": {
+            "Aloo Patties": {
+              "price": "20",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/yummy-hub-central-abohar-abohar-158193"
+      },
+      "158195": {
+        "name": "wah ji waah veg and non veg corner",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 200",
+        "address": "wah ji waah veg and non veg corner, Hanuman garh road, Down the flyover. Near Dr.Navin Sheety Abohar",
+        "cuisine": "North Indian,Chinese",
+        "lic_no": "22119652000157",
+        "menu": {
+          "All Day Breakfast": {
+            "Omelette (2 Eggs Butter)": {
+              "price": "60",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Half Fry Egg (2 Eggs Butter)": {
+              "price": "60",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Bhurji (3 Eggs Butter)": {
+              "price": "80",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Mutton & Biryani": {
+            "Chicken Biryani": {
+              "price": "239",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Veg Cheese Biryani": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jeera Rice": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Salad & Chaat": {
+            "Dry Papad (1 Pc)": {
+              "price": "12",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fried Papad": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kheera Salad": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Salad": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Papad": {
+              "price": "69",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peanut Masala": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Raita Mixed": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Dahi": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chana Chaat": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Fish": {
+            "Fish Curry": {
+              "price": "375",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Fish Finger": {
+              "price": "350",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Fish Fried": {
+              "price": "350",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Fish Kfc Style": {
+              "price": "350",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Lemon Fish Butter Sauce": {
+              "price": "370",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Chinese Starters": {
+            "Chicken Pakora": {
+              "price": "280",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chilli Chicken": {
+              "price": "290",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Jeera Chicken": {
+              "price": "325",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Lemon Chicken": {
+              "price": "325",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Kfc Chicken": {
+              "price": "299",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Cream Chicken": {
+              "price": "339",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Methi Malai Chicken": {
+              "price": "339",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Boiled chicken": {
+              "price": "220",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Soya Chaap Chilli": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tikka": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Malai Tikka": {
+              "price": "239",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "239",
+              "veg_or_non_veg": "Veg"
+            },
+            "Soya Chaap Tandoori Masala": {
+              "price": "159",
+              "veg_or_non_veg": "Veg"
+            },
+            "Soya Chaap Malai": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Soya Chaap Kfc Style": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jeera Paneer": {
+              "price": "249",
+              "veg_or_non_veg": "Veg"
+            },
+            "Patato Finger": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            },
+            "paneer pakoda (plate)": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "soya chaap pakoda": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese finger": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "French fries": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Tandoori": {
+            "Chicken Tandoori": {
+              "price": "259",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Tikka": {
+              "price": "295",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Malai Tikka": {
+              "price": "300",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Afghani Chicken Tandoori": {
+              "price": "309",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Malai Tandoori Chicken": {
+              "price": "309",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Special Tandoori Chicken": {
+              "price": "309",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Indian Main Course": {
+            "Egg Curry": {
+              "price": "180",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Kali Mirch": {
+              "price": "309",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Masala Chicken": {
+              "price": "299",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Butter Chicken": {
+              "price": "289",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Kadai Chicken": {
+              "price": "299",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Patiala Chicken": {
+              "price": "299",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Curry Chicken": {
+              "price": "160",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Keema Chicken": {
+              "price": "319",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Rara Chicken": {
+              "price": "319",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Do Pyaza": {
+              "price": "309",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Gravy": {
+              "price": "159",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Butter Gravy": {}
+          }
+        }
+      },
+      "158203": {
+        "name": "theka coffee desi",
+        "rating": "3.8",
+        "rating_count": "100+ ratings",
+        "cost": "₹ 100",
+        "address": "theka coffee desi, sahtiya sadan road city",
+        "cuisine": "Beverages",
+        "lic_no": "22121652000190",
+        "menu": {
+          "Recommended": {
+            "Cafe Latte Coffee": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cafe Mocha Coffee": {
+              "price": "132",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mango Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Walnut Brownie": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolaty Frappe": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Fries": {
+              "price": "82",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Garlic Bread": {
+              "price": "124",
+              "veg_or_non_veg": "Veg"
+            },
+            "Exotic Garlic Bread": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Wrap": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Veg Wrap": {
+              "price": "92",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Sub": {
+              "price": "166",
+              "veg_or_non_veg": "Veg"
+            },
+            "8 \" Regular Farm House Pizza": {
+              "price": "217",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Farm House Pizza": {
+              "price": "375",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \"Large Farm House Pizza": {
+              "price": "475",
+              "veg_or_non_veg": "Veg"
+            },
+            "American Cheese Burger": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Tikki Burger": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Burger": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Burger": {
+              "price": "92",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "8 \" Regular Spicy Paneer Pizza": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Spicy Paneer Pizza": {
+              "price": "480",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Sandwich": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "8 \" Regular Paneer Makhani Pizza": {
+              "price": "197",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Paneer Makhani Pizza": {
+              "price": "499",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Penne Alfredo Pasta": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "White Penne Alfredo Pasta": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Sauce Penne Alfredo Pasta": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Loaded Chicken Pizza": {
+              "price": "432",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Paneer Tikka Salad": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Delight Salad": {
+              "price": "189",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "8 \" Regular Chicken Tikka Pizza": {
+              "price": "187",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Tandoori Chicken Pizza": {
+              "price": "463",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Family Binge Combos": {
+            "2 Strawberry Shake + 2 Punjabi Paneer Cruncher (Without Onion + Garlic) + 1 Mint Mojito Mocktail": {
+              "price": "720",
+              "veg_or_non_veg": "Veg"
+            },
+            "2 Butterscotch Shake + 2 Red Penne Mushroom Pata (Without Onion + Garlic) + 3 Veg Burger (Without Onion + Garlic)": {
+              "price": "862",
+              "veg_or_non_veg": "Veg"
+            },
+            "3 Piece 8\" Regular Spicy Corn Tango Pizza (Without Onion + Garlic) + 3 Choclate Shakes": {
+              "price": "932",
+              "veg_or_non_veg": "Veg"
+            },
+            "3 American Cheese Burger (Without Onion + Garlic) + 3 Tcd Special Shake": {
+              "price": "1365",
+              "veg_or_non_veg": "Veg"
+            },
+            "3 Oreo Shake + 3 Paneer Wrap (Without Onion + Garlic)": {
+              "price": "888",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Hot Coffee": {
+            "Americano Black Coffee": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cappuccino Coffee": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hot Chocolate Coffee": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hazelnut Cappuccino Coffee": {
+              "price": "111",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cookie Cappuccino Coffee": {
+              "price": "155",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cafe Latte Coffee": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Irish Cafe Latte Coffee": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Caramel Latte Coffee": {
+              "price": "132",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cafe Mocha Coffee": {
+              "price": "132",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Tea": {
+            "Assam Tea": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Tea": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Thirst Quenchers": {
+            "Lemon Ice Tea": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peach Ice Tea": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Ice Tea": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Classic Lemonade": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Lemonade": {
+              "price": "115",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mint Lemonade": {
+              "price": "115",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Shakes Crunchy": {
+            "Oreo Shake": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "TCD Special Shake": {
+              "price": "264",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Classic Shakes": {
+            "Strawberry Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butterscotch Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Vanilla Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Greenapple Shake": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Current Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Shakes Premium": {
+            "Mango Shake": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paan Shake": {
+              "price": "131",
+              "veg_or_non_veg": "Veg"
+            },
+            "Orange chocolate shake": {
+              "price": "143",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sweet Moments": {
+            "Walnut Brownie": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fruit Sundae": {
+              "price": "113",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paan Sundae": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Cold Coffee": {
+            "Devils Own Desi Style Coffee": {
+              "price": "144",
+              "veg_or_non_veg": "Veg"
+            },
+            "Classic Cold Coffee": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Iced Cappuccino Coffee": {
+              "price": "133",
+              "veg_or_non_veg": "Veg"
+            },
+            "Iced Vanilla Cappuccino Coffee": {
+              "price": "154",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cafe Frappe": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolaty Frappe": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "Caramel Frappe": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Quick Bites": {
+            "Masala Fries with Dip": {
+              "price": "115",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Tokari": {
+              "price": "113",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Shots": {
+              "price": "113",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Fingers": {
+              "price": "86",
+              "veg_or_non_veg": "Veg"
+            },
+            "Triple S": {
+              "price": "130",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Finger(peri peri)": {
+              "price": "176",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Finger 5pc(Barbeque)": {
+              "price": "177",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "French Fries": {
+              "price": "82",
+              "veg_or_non_veg": "Veg"
+            },
+            "Seekh Kabab with Dip": {
+              "price": "91",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Nuggets": {
+              "price": "139",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Popcorn": {
+              "price": "144",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Finger (5 Pcs)": {
+              "price": "150",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Garlic Breads": {
+            "Plain Garlic Bread": {
+              "price": "88",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Garlic Bread": {
+              "price": "124",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilly Corn Garlic Bread": {
+              "price": "142",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Cavity": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Exotic Garlic Bread": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Roasted Chicken Garlic Bread": {
+              "price": "166",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Seekh Kabab Garlic Bread": {
+              "price": "172",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Mocktails": {
+            "Mint Mojito Mocktail": {
+              "price": "155",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cucumber Lemon Mojito Mocktail": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "Meloneez Mocktail": {
+              "price": "139",
+              "veg_or_non_veg": "Veg"
+            },
+            "Candid Apple Mocktail": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "TCD Float (Coke with Ice Cream Float) Mocktail": {
+              "price": "73",
+              "veg_or_non_veg": "Veg"
+            },
+            "Lemon Coke Mocktail": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malt (Taste of Beer) Mocktail": {
+              "price": "131",
+              "veg_or_non_veg": "Veg"
+            },
+            "Blue Curacao": {
+              "price": "148",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spicy Mango": {
+              "price": "131",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Wraps": {
+            "Paneer Wrap": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Seekh Kabab Wrap": {
+              "price": "121",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Tikka Wrap": {
+              "price": "139",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tandoori Chicken Wrap": {
+              "price": "144",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Single egg single chicken wrap": {
+              "price": "155",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Aloo Wrap": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Veg Wrap": {
+              "price": "92",
+              "veg_or_non_veg": "Veg"
+            },
+            "Egg Wrap": {
+              "price": "92",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Pasta Wrap": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sub": {
+            "Paneer Tikka Sub": {
+              "price": "166",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Tikki Sub": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Delight Sub": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Tikka Sub": {
+              "price": "179",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Delight Sub": {
+              "price": "192",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Saute Chicken Sub": {
+              "price": "166",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Combos": {
+            "2 Pieces Chicken Tikka Sandwich  +  Classic Lemonade": {
+              "price": "145",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "2 Pieces Paneer Tikka Sandwich + Cappuccino": {
+              "price": "132",
+              "veg_or_non_veg": "Veg"
+            },
+            "1 Veg Burger with Cheese + Classic Cold Coffee": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "1 Chicken Burger with Cheese + Classic Cold Coffee": {
+              "price": "198",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Mexican Veg Wrap + Lemon Coke": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Wrap + Meloneez": {
+              "price": "211",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Veg Supreme Pizza": {
+            "8 \" Regular Farm House Pizza": {
+              "price": "217",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Farm House Pizza": {
+              "price": "375",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \"Large Farm House Pizza": {
+              "price": "475",
+              "veg_or_non_veg": "Veg"
+            },
+            "8 \" Regular Special Wonder Pizza": {
+              "price": "184",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Special Wonder Pizza": {
+              "price": "375",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Special Wonder Pizza": {
+              "price": "475",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Burgers": {
+            "Punjabi Paneer Cruncher": {
+              "price": "116",
+              "veg_or_non_veg": "Veg"
+            },
+            "Double Decker Veg Burger": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "American Cheese Burger": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "Exotic Egg Burger": {
+              "price": "118",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Spicy Chicken Burger": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Double Decker Chicken Burger": {
+              "price": "172",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "American chicken burger": {
+              "price": "136",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Aloo Tikki Burger": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Burger": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spicy Veg Burger": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Burger": {
+              "price": "92",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Veg Delight Pizza": {
+            "8 \" Regular Tandoori Paneer Pizza": {
+              "price": "175",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Tandoori Paneer Pizza": {
+              "price": "325",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Tandoori Paneer Pizza": {
+              "price": "450",
+              "veg_or_non_veg": "Veg"
+            },
+            "8 \" Regular Hot & Sweet Delight Pizza": {
+              "price": "175",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \"Medium Hot & Sweet Delight Pizza": {
+              "price": "325",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Hot & Sweet Delight Pizza": {
+              "price": "450",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Veg Super Pizza": {
+            "8 \" Regular Veg Feast Pizza": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Veg Feast Pizza": {
+              "price": "270",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Veg Feast Pizza": {
+              "price": "480",
+              "veg_or_non_veg": "Veg"
+            },
+            "8 \" Regular Spicy Corn Tango Pizza": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Spicy Corn Tango Pizza": {
+              "price": "480",
+              "veg_or_non_veg": "Veg"
+            },
+            "8 \" Regular Spicy Paneer Pizza": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \"Medium Spicy Paneer Pizza": {
+              "price": "270",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Spicy Paneer Pizza": {
+              "price": "480",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sandwiches": {
+            "Corn Delight Sandwich": {
+              "price": "102",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Cheese Sandwich": {
+              "price": "118",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Sandwich": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Makhani Sandwich": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Sandwich": {
+              "price": "142",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Delight Sandwich": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Tikka Sandwich": {
+              "price": "152",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Delight Sandwich": {
+              "price": "131",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Delight Sandwich": {
+              "price": "168",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Double Decker Ontario Sandwich": {
+              "price": "209",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Schezwan Veg sandwich": {
+              "price": "162",
+              "veg_or_non_veg": "Veg"
+            },
+            "Schezwan chicken sandwich": {
+              "price": "175",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Single Topping Pizza": {
+            "Cheesy Marghrita (Medium)": {
+              "price": "228",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheesy Margheritta Pizza (Large)": {
+              "price": "364",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheesy  Margherita (Regular)": {
+              "price": "127",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Wonder Pizza": {
+            "8 \" Regular Paneer Makhani Pizza": {
+              "price": "197",
+              "veg_or_non_veg": "Veg"
+            },
+            "10 \" Medium Paneer Makhani Pizza": {
+              "price": "355",
+              "veg_or_non_veg": "Veg"
+            },
+            "13 \" Large Paneer Makhani Pizza": {
+              "price": "499",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Pastas": {
+            "Red Penne Alfredo Pasta": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Penne Mushroom Pasta": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Exotic Veggie Pasta": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Penne Chicken Pasta": {
+              "price": "205",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "White Penne Alfredo Pasta": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "White Penne Mushroom Pasta": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "White Exotic Veggie Pasta": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "White Penne Chicken Pasta": {
+              "price": "205",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Mix Sauce Penne Alfredo Pasta": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Sauce Penne Mushroom Pasta": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Sauce Exotic Veggie Pasta": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Sauce Penne Chicken Pasta": {
+              "price": "205",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "American crunchy veg pasta": {
+              "price": "196",
+              "veg_or_non_veg": "Veg"
+            },
+            "American Crunchy chicken pasta": {
+              "price": "215",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Non Veg Supreme Pizza": {
+            "8 \" Regular Spicy Chicken Pizza": {
+              "price": "312",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Spicy Chicken Pizza": {
+              "price": "432",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Spicy Chicken Pizza": {
+              "price": "594",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "8 \" Regular Chicken Love Pizza": {
+              "price": "312",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Chicken Love Pizza": {
+              "price": "432",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Chicken Love Pizza": {
+              "price": "594",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "8 \" Regular Loaded Chicken Pizza": {
+              "price": "312",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Loaded Chicken Pizza": {
+              "price": "432",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Loaded Chicken Pizza": {
+              "price": "594",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Non Veg Delight Pizza": {
+            "8 \" Regular Hawaiian Delight Pizza": {
+              "price": "228",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Hawaiian Delight Pizza": {
+              "price": "378",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Hawaiian Delight Pizza": {
+              "price": "495",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "8 \" Regular Golden Delight Pizza": {
+              "price": "228",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Golden Delight Pizza": {
+              "price": "378",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Golden Delight Pizza": {
+              "price": "495",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Salad": {
+            "Paneer Tikka Salad": {
+              "price": "158",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Tikki Salad": {
+              "price": "152",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Delight Salad": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Tikka Salad": {
+              "price": "172",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Delight Salad": {
+              "price": "189",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Saute Chicken Salad": {
+              "price": "166",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Salad": {
+              "price": "166",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Nacho Salad": {
+              "price": "188",
+              "veg_or_non_veg": "Veg"
+            },
+            "Crispy veg saled": {
+              "price": "188",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Non Veg Super Pizza": {
+            "8 \" Regular Chicken Tikka Pizza": {
+              "price": "187",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Chicken Tikka Pizza": {
+              "price": "330",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Chicken Tikka Pizza": {
+              "price": "463",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "8 \" Regular Tandoori Chicken Pizza": {
+              "price": "187",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "10 \" Medium Tandoori Chicken Pizza": {
+              "price": "330",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "13 \" Large Tandoori Chicken Pizza": {
+              "price": "463",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Swiggy Special Combos": {
+            "1 Aloo Tikki Burger + 1 Single Topping Onion Pizza": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "1 Aloo Tikki Burger + 1 Single Topping Corn Pizza": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/theka-coffee-desi-central-raipura-abohar-158203"
+      },
+      "158204": {
+        "name": "Sam Uncle",
+        "rating": "3.6",
+        "rating_count": "20+ ratings",
+        "cost": "₹ 200",
+        "address": "Sam Uncle, hanumangarh road near raja bajaj showroom abohar",
+        "cuisine": "Continental",
+        "lic_no": "22119652000052",
+        "menu": {
+          "Recommended": {
+            "Burger with Pizza Dip": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Cheese Burger": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Burger": {
+              "price": "85",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Tikki Burger": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mixed Veg Sandwich": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jumbo Sandwich": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Sandwich": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Corn Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Tomato Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Onion Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Capsicum Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Mix Veg Cheese Pizza": {
+              "price": "287",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Yummy Paneer Treat Pizza": {
+              "price": "315",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Veggie Loaded Pizza": {
+              "price": "349",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Sweet Corn Cheese Pizza": {
+              "price": "297",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Spicy Veggie Delight Pizza": {
+              "price": "298",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mixed Veg Sandwizza": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Garlic Bread": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sweet Corn Sandwizza": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cold Coffee": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Currant Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Burgers": {
+            "Burger with Pizza Dip": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Cheese Burger": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Burger": {
+              "price": "85",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Shot Burger": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mayo Burger": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Valley Burger": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Tikki Burger": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sandwiches": {
+            "Mixed Veg Sandwich": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jumbo Sandwich": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Sandwich": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sweet Corn Sandwich": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Cheese Sandwich": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Herb Sandwich": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pasta Sandwich": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Pizza's": {
+            "8'' Corn Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Tomato Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Onion Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Plain Cheese Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Capsicum Pizza": {
+              "price": "259",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Mix Veg Cheese Pizza": {
+              "price": "287",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Yummy Paneer Treat Pizza": {
+              "price": "315",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Veggie Loaded Pizza": {
+              "price": "349",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Sweet Corn Cheese Pizza": {
+              "price": "297",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Spicy Veggie Delight Pizza": {
+              "price": "298",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Exotic Mushroom Pizza": {
+              "price": "298",
+              "veg_or_non_veg": "Veg"
+            },
+            "8'' Potato Stick Pizza": {
+              "price": "349",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sweet Corns": {
+            "Butter Lemon Sweet Corn": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Sweet Corn": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Pepper Sweet Corn": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spice Magic Sweet Corn": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Chilli Sweet Corn": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Quick Bites": {
+            "Mixed Veg Sandwizza": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Garlic Bread": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Garlic Bread": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sweet Corn Sandwizza": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sweet Corn Garlic Bread": {
+              "price": "124",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Garlic Bread": {
+              "price": "124",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Shakes and Beverages": {
+            "Cold Coffee": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Currant Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butterscotch Shake": {
+              "price": "84",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Pasta's": {
+            "Masala Spiral Pasta In Bowl": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Spiral Pasta In Cup": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/sam-uncle-central-main-bazar-abohar-158204"
+      },
+      "187912": {
+        "name": "Singh Hut",
+        "rating": "3.7",
+        "rating_count": "20+ ratings",
+        "cost": "₹ 250",
+        "address": "Singh Hut, CIRCULAR ROAD NEAR NEHRU PARK ABOHAR",
+        "cuisine": "Fast Food,Indian",
+        "lic_no": "22119652000167",
+        "menu": {
+          "Recommended": {
+            "Malai Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Afghani Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chaap Tikka Gravy": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Keema Chaap Gravy": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Butter Masala": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rumali Roti": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Mushroom": {
+              "price": "280",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "280",
+              "veg_or_non_veg": "Veg"
+            },
+            "Manchurian Gravy": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Potato": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Honey Chilli Potato": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Fry": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Spring Roll": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Momos (10 Pcs)": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fried Momos (10 Pcs)": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Momos (8 Pcs)": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malai Paneer": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Chow mien": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chow mien": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Singapore Chow mien": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chaap Roll": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Combos": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Soya Chaap": {
+            "Malai Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Afghani Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Irani Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fried Chaap": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Gravy Item": {
+            "Chaap Tikka Gravy": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Keema Chaap Gravy": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Butter Masala": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadai Paneer": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Tikka Masala": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rumali Roti": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Chinese Hot": {
+            "Chilli Chaap": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Mushroom": {
+              "price": "280",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "280",
+              "veg_or_non_veg": "Veg"
+            },
+            "Manchurian Gravy": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Potato": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Honey Chilli Potato": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Fry": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Spring Roll": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Momos": {
+            "Momos (10 Pcs)": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fried Momos (10 Pcs)": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Momos (8 Pcs)": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Fried Momos (8 Pcs)": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Soup": {
+            "Veg Manchow Soup": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Paneer": {
+            "Malai Paneer": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Afghani Paneer": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Irani Paneer": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Paneer": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Paneer": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Paneer": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Golden Fried Paneer": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Mushroom": {
+            "Malai Mushroom": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Afghani Mushroom": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Irani Mushroom": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Mushroom": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Mushroom": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Mushroom": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Golden Fried Mushroom": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Chow mien": {
+            "Veg Chow mien": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Hakka Chow mien": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chow mien": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Singapore Chow mien": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mixed Veg Chow mien": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chaap Chow mien": {
+              "price": "140",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Rumali Roll": {
+            "Paneer Roll": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chaap Roll": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Roll": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mixed Roll": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Rumali Package": {
+            "Combos": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/singh-hut-nehru-park-main-bazar-abohar-187912"
+      },
+      "244866": {
+        "name": "Shri Balaji Vaishno Dhaba",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 100",
+        "address": "Shri Balaji Vaishno Dhaba, St no 13,6th chowk,main Bazar,near jain bhawan, abohar",
+        "cuisine": "North Indian",
+        "lic_no": "22119652000389",
+        "menu": {
+          "Main Course": {
+            "Dal": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadhi": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mixed Veg": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Lehsun Chutney": {
+              "price": "35",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dahi Fry": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Salad": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Raita": {
+            "Simple Raita": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mixed Raita": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Raita": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Indian Breads": {
+            "Simple Roti": {
+              "price": "10",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Roti": {
+              "price": "12",
+              "veg_or_non_veg": "Veg"
+            },
+            "Laccha Prantha": {
+              "price": "35",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pyaz Prantha": {
+              "price": "35",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Prantha": {
+              "price": "55",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/shri-balaji-vaishno-dhaba-central-main-bazar-abohar-244866"
+      },
+      "338749": {
+        "name": "Swastik Dhaba",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 200",
+        "address": "Swastik Dhaba, Gaushala road street no 22 near shiv mandir abohar",
+        "cuisine": "North Indian",
+        "lic_no": "license",
+        "menu": {
+          "Vegetable": {
+            "Cream Malai Mater": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Do Piaza": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Gravy": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Kaju Butter Masala": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Shahi Paneer": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Malai Kofta": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Punjabi Paneer": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Paneer Do Piaza": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Badami Paneer": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Kaju Paneer": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Korma": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Plinda": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kadai Paneer": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mashroom Paneer Masala": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Punjabi Paneer": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tikka Butter Masala": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Masala": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Tomato": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malai Kofta": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Paneer": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Shahi Paneer": {
+              "price": "219",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Bhurji": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mater Do Piaza": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Stuff Tomato": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Malai Kofta": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Mater": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            },
+            "Saag Paneer": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Palak Paneer": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sarso Ka Saag Makhani": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dum Aloo": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mater Paneer": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Butter Nandi": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Sev Bhaji": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chana Masala": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Vegetable": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Palak Mater": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Palak Kaju": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Jeera Aloo": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Palak": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Maharani": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Makhani (Maah Chana)": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Gobhi": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dal Fry": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Yellow Dal Tadka": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Karhi Pakora": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Paneer": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Jeera Aloo": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Gobhi Masala": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Bengan Bhartha Makhani": {
+              "price": "119",
+              "veg_or_non_veg": "Veg"
+            },
+            "Soya Butter Chaap Gravy (Special)": {
+              "price": "229",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Parantha": {
+            "Potato Onion Paratha": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Paratha": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese  Paratha": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Paratha": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Raita": {
+            "Vegetabel Cream Raita": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Russian Fruit Raita": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pineapple Raita": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Boondi Raita": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Curd": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Chappati and Naan": {
+            "Butter Chappati": {
+              "price": "7",
+              "veg_or_non_veg": "Veg"
+            },
+            "Missi Chappati": {
+              "price": "19",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Chappati": {
+              "price": "6",
+              "veg_or_non_veg": "Veg"
+            },
+            "Churidaar Paratha": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Pin Mini Paratha": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Paratha": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Naan": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Buttter Naan": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Butter Naan": {
+              "price": "55",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Mini Paratha": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Rice": {
+            "Veg Biryani": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Jeera Rice": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Jeera Rice": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Pulav": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Jeera Rice": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Snacks": {
+            "Potato Chilli": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli Gravy": {
+              "price": "320",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "320",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian Gravy": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Chilli": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chana Fry": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Potato Chips": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papad Dry": {
+              "price": "25",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Salad": {
+            "Cream Salad": {
+              "price": "199",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Salad": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/swastik-dhaba-central-krishna-nagri-abohar-338749"
+      },
+      "394554": {
+        "name": "Roll Express",
+        "rating": "4.0",
+        "rating_count": "20+ ratings",
+        "cost": "₹ 200",
+        "address": "Roll Express, Roll Express, Opposite Dr. Sarla Sethi Hospital, Near DAV College, Hanumangarh Road, Abohar",
+        "cuisine": "Fast Food",
+        "lic_no": "22117652000070",
+        "menu": {
+          "Rolls": {
+            "Sin Paneer Roll": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Paneer Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Achari Paneer Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Achari Paneer Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Paneer Malai Tikka Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Paneer Malai Tikka Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Paneer Bhurji Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Paneer Bhurji Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Shahi Paneer Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Shahi Paneer Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Peri Peri Paneer Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Peri Peri Paneer Roll": {
+              "price": "139",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hot & Smoky Paneer Roll": {
+              "price": "139",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Afghani Chaap Roll": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Afghani Chaap Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Masala Chaap Roll": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Masala Chaap Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Achari Chaap Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Achari Chaap Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Tandoori Chaap Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Tandoori Chaap Roll": {
+              "price": "139",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Chicken Roll": {
+              "price": "89",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Chicken Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Sin Chicken Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Dbl Chicken Roll": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Sin Chicken Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Dbl Chicken Roll": {
+              "price": "139",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Achari Chicken Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Achari Chicken Roll": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Chicken Seekh Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Chicken Seekh Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Chicken Keema Roll": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Chicken Keema Roll": {
+              "price": "139",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Chicken Malai Tikka Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Chicken Malai Tikka Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Tandoori Chicken Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Tandoori Chicken Roll": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Chicken BBQ Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Chicken BBQ Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Shahi Chicken Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Shahi Chicken Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Peri Peri Chicken Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Peri Peri Chicken Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Hot & Smoky Chicken Roll": {
+              "price": "139",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Roll": {
+              "price": "89",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Tripple Egg Roll": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Bhurji Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Aloo Roll": {
+              "price": "49",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Aloo Roll": {
+              "price": "69",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Tandoori Aloo Roll": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Tandoori Aloo Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Emly Aloo Roll": {
+              "price": "69",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Emly Aloo Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Aloo Roll": {
+              "price": "69",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Veggie Roll": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Veggie Roll": {
+              "price": "79",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sin Veg. Paneer Roll": {
+              "price": "89",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dbl Veg. Paneer Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Veg & Non Veg Rolls": {
+            "Sin Egg Sin Aloo Roll": {
+              "price": "79",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Dbl Aloo Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Dbl Aloo Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Sin Veggie Roll": {
+              "price": "89",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Dbl Veggie Roll": {
+              "price": "109",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Dbl Veggie Roll": {
+              "price": "119",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Sin Paneer Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Dbl Paneer Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Dbl Paneer Roll": {
+              "price": "149",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Sin Chaap Roll": {
+              "price": "99",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Sin Egg Dbl Chaap Roll": {
+              "price": "129",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Dbl Egg Dbl Chaap Roll": {
+              "price": "149",
+              "veg_or_non_veg": "Non-veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/roll-express-central-abohar-abohar-394554"
+      },
+      "407249": {
+        "name": "CHAWLA SAAB THE JUICE MASTER",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 300",
+        "address": "CHAWLA SAAB THE JUICE MASTER, SAHITYA SADAN MARKET, ABOHAR ,  Abohar (M Cl) , Fazilka 1(Abohar), Fazilka,  Punjab-152116",
+        "cuisine": "Juices,Beverages",
+        "lic_no": "22121652000374",
+        "menu": {
+          "Subs": {
+            "Corn Paneer Sub": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Paneer Sub": {
+              "price": "169",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Patty Sub": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Snacks": {
+            "Schezwan Fried Rice": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Wraps": {
+            "Achari Paneer Wrap": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chawla Saab Special Wrap": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Wrap": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Wrap": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Wraps": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Wrap": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Burgers": {
+            "Peri Peri Magic Paneer Burger": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn Classic Burger": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Burger": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Barbeque Burger": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aloo Tikki Burger": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Juice": {
+            "Carrot Juice Seasonal": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Keenu Juice Seasonal": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Carrot Keenu Mix Juice Seasonal": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Watermelon Juice": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sugarcane Juice": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mosami Juice": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Orange Juice Seasonal": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pineapple Juice": {
+              "price": "85",
+              "veg_or_non_veg": "Veg"
+            },
+            "Falsa Juice Seasonal": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mosami Pineapple Mix Juice": {
+              "price": "85",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Fruit Juice": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Alu Bhukhara Juice Seasonal": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Anar Mix Juice": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Guava Juice": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Apple Juice Seasonal": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Anar Pineapple Mix Juice": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Anar Mosami Mix Juice": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Anar Orange Mix Juice Seasonal": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Anar Juice": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Shakes": {
+            "Choco Banana Shake": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rose Shake": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mango Shake Seasonal": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Banana Shake": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Shake": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butterscotch Shake": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papaya Shake": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Vanila Ice Cream Shake": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cold Coffee": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dalogona Coffee [Medium]": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheeku Shake Seasonal": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Current Shake": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Shake": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pincapple Milk Shake": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peanut Butter Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Badam Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Pista Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kiwi Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Banana Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Blueberry Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "KitKat Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Oreo Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Snicker Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pan Milk Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Nutella Milk Shake": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Smoothies": {
+            "Otty Banana": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tangy Mango": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tangy Pineapple": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mango Breeze": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Happy Tummy": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peanut Blast": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chia Shia": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cafe Mocha": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cucumber Crush": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kiwi Crush": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Snickers Buzz": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Dragon": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sandwich": {
+            "Achari Paneer Sandwich": {
+              "price": "143",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chawlasaab Special Cheese Chilly Sandwich": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cold Sandwich": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Grill Sandwich [Regular]": {
+              "price": "99",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hot & Spicy Sandwich": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn Paneer Sandwich": {
+              "price": "143",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chawlasaab Special Sandwich": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Maggi": {
+            "Makhni Maggi": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Maggi [Regular]": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Maggi Mint Flavour [Regular]": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Veg Maggi": {
+              "price": "78",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Maggi": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hot & Spicy Maggi": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese butter maggi": {
+              "price": "91",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chawlasaab Special Maggi": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Maggi": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Pasta": {
+            "Makhni Pasta": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Pasta": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Achari Pasta": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Sauce Pasta": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "White Sauce Pasta": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mix Sauce Pasta": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Fries": {
+            "Peri Peri Masala Fries Large": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Fries Large": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spiral Potato": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Fries Small": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Masala Fries Small": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Poha": {
+            "Vegetable Poha": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Corn Cups": {
+            "Peri Peri Magic Corn": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Corn": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Salt & Black Pepper Corn": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina & Green Chilli Corn": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Nachos": {
+            "Nachos Salad": {
+              "price": "117",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn Cheese Nachos": {
+              "price": "143",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Lassi": {
+            "Sweet Lassi": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Lassi": {
+              "price": "39",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Lassi": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mango Lassi": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Mocktails": {
+            "Bubble Gum": {
+              "price": "104",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Lemonade": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Virgin Mojito": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Apple Mojito": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Watermelon Mojito": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Lemon Ice Tea": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Protein Shakes": {
+            "Chocolate Protein Shake": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            },
+            "Vanilla Protein Shake": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cookies & Cream Protein Shake": {
+              "price": "156",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/chawla-saab-the-juice-master-central-abohar-abohar-407249"
+      },
+      "453869": {
+        "name": "Rahul Food",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 300",
+        "address": "Rahul Food, Kandhwala Road, Near Gurudwara Saheb, Abohar",
+        "cuisine": "North Indian,Snacks",
+        "lic_no": "22121652000613",
+        "menu": {},
+        "link": "https://www.swiggy.com/restaurants/rahul-food-central-abohar-abohar-453869"
+      },
+      "531342": {
+        "name": "Janta Sweet House",
+        "rating": "4.4",
+        "rating_count": "50+ ratings",
+        "cost": "₹ 200",
+        "address": "Janta Sweet House, Bazar No.9, Circullar Road, Abohar",
+        "cuisine": "Sweets,Bakery",
+        "lic_no": "12117201000112",
+        "menu": {
+          "Breakfast": {
+            "Veg Grilled Sandwich": {
+              "price": "55",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Sandwich": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dhokla": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Channa Bhatura [2 Pc]": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chana Bhatura With Lassi": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Drinks (beverages)": {
+            "Mango Shake": {
+              "price": "72",
+              "veg_or_non_veg": "Veg"
+            },
+            "Milk Badam Shake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Namkeen Lassi": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cold Coffee": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butterscotch Shake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Oreo Shake": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pineapple Shake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Banana Shake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strawberry Shake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Roohafza Milkshake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Lassi [sweet]": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Combos": {
+            "Burgers Pack": {
+              "price": "225",
+              "veg_or_non_veg": "Veg"
+            },
+            "Barfi Pack": {
+              "price": "250",
+              "veg_or_non_veg": "Veg"
+            },
+            "Starters Combo": {
+              "price": "225",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chai Time Combo": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "South Special": {
+              "price": "115",
+              "veg_or_non_veg": "Veg"
+            },
+            "Snacks Combo": {
+              "price": "167",
+              "veg_or_non_veg": "Veg"
+            },
+            "Patties Combo": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pastry Pack": {
+              "price": "98",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Sweets": {
+            "Modak Laddu": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dhodha": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Baisan Barfi": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rewari Barfi": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Laddu (desi Ghee)": {
+              "price": "115",
+              "veg_or_non_veg": "Veg"
+            },
+            "Moti Pak (desi Ghee)": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pinni (desi Ghee)": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sohan Halwa": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kalakand": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Burfi": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Elaichi Burfi": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Katli": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Khoya Katli": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mandakini Burfi": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Burfi": {
+              "price": "123",
+              "veg_or_non_veg": "Veg"
+            },
+            "Anguri Petha": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Khurmani": {
+              "price": "103",
+              "veg_or_non_veg": "Veg"
+            },
+            "Murki Chhena": {
+              "price": "113",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spungi Rasbhari": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rasbhari": {
+              "price": "93",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chamcham": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tosha": {
+              "price": "93",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rasgulla": {
+              "price": "93",
+              "veg_or_non_veg": "Veg"
+            },
+            "Gulab Jamun": {
+              "price": "93",
+              "veg_or_non_veg": "Veg"
+            },
+            "Rasmalai [1 Piece]": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spungi Rasgulla [1 Piece]": {
+              "price": "44",
+              "veg_or_non_veg": "Veg"
+            },
+            "Emarti": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jullie": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kaju Katli": {
+              "price": "273",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Laddu": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Moti Choor Laddu": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Baisan Pinni": {
+              "price": "85",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Pinni": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mango Pera": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chana Laddu": {
+              "price": "178",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Roll": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kesar Roll": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pista Roll": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Malai Pera": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mini Pera": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Badam Cake": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Coconut Burfi": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Milk Cake": {
+              "price": "142",
+              "veg_or_non_veg": "Veg"
+            },
+            "Boondi": {
+              "price": "68",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sandwich [mithai]": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Aam Papad Roll": {
+              "price": "186",
+              "veg_or_non_veg": "Veg"
+            },
+            "Soan Papdi [1 Kg]": {
+              "price": "240",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sirni [500 Grams]": {
+              "price": "157",
+              "veg_or_non_veg": "Veg"
+            },
+            "Balushai [500 Grams]": {
+              "price": "142",
+              "veg_or_non_veg": "Veg"
+            },
+            "Shakarpare [500 Grams]": {
+              "price": "142",
+              "veg_or_non_veg": "Veg"
+            },
+            "Gurpare [500 Grams]": {
+              "price": "142",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hot Gulab Jamun [1 Pc]": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Special Sweet Gifts": {
+            "Basket Gift Pack": {
+              "price": "470",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Fruit Tray": {
+              "price": "1070",
+              "veg_or_non_veg": "Veg"
+            },
+            "All Mix Sweet": {
+              "price": "220",
+              "veg_or_non_veg": "Veg"
+            },
+            "3 Line Mix Sweet": {
+              "price": "500",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Dry Fruit & Nuts": {
+            "Pista Roasted": {
+              "price": "350",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kishmish": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Badam Giri": {
+              "price": "370",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kaju Namkeen Roasted": {
+              "price": "470",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kaju Plain": {
+              "price": "485",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Dairy Products": {
+            "Dahi": {
+              "price": "34",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Snacks": {
+            "Bhalla Papdi": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dahi Bhalla": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dahi Vada": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Special Pav Bhaji": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pav Bhaji": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Cutlet": {
+              "price": "150",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Cutlet": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Noodles Cutlet": {
+              "price": "34",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Pakoda": {
+              "price": "43",
+              "veg_or_non_veg": "Veg"
+            },
+            "Samosa": {
+              "price": "22",
+              "veg_or_non_veg": "Veg"
+            },
+            "Samosa With Chana": {
+              "price": "64",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Papad": {
+              "price": "73",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Patties": {
+            "Noodles Patties": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Patties": {
+              "price": "23",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Patties": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Burgers And Hot Dogs": {
+            "Cheese Burger Fry": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Burger Fry": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tikki Burger": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Noodles Burger": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Hot Dog": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Hot Dog": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Noodles": {
+            "Mushroom Chowmein": {
+              "price": "164",
+              "veg_or_non_veg": "Veg"
+            },
+            "Special Chowmein": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Chowmein": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Noodles": {
+              "price": "134",
+              "veg_or_non_veg": "Veg"
+            },
+            "Singapore Chopsuey": {
+              "price": "164",
+              "veg_or_non_veg": "Veg"
+            },
+            "American Chopsuey": {
+              "price": "164",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Starters": {
+            "Cheese Tikka Fry": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Corn Roll": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Spring Roll": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Spring Roll": {
+              "price": "149",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Manchurian With Gravy": {
+              "price": "284",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Manchurian": {
+              "price": "269",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian With Gravy": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Manchurian": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Chilly": {
+              "price": "224",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli With Gravy": {
+              "price": "320",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilli": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Fries": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Finger": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Potato Finger": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Bullet": {
+              "price": "149",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Kabab": {
+              "price": "224",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Kabab": {
+              "price": "134",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Cotton Kabab": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "South Indian Dishes": {
+            "Sambar Vada": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Uttapam": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Uttapam": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Uttapam": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Special Family Dosa": {
+              "price": "239",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Masala Dosa": {
+              "price": "149",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Dosa": {
+              "price": "149",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Dosa": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Dosa": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Butter Masala Dosa": {
+              "price": "149",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pizza Dosa": {
+              "price": "135",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Pizza And Pasta": {
+            "Pasta White Sauce": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pasta Red Sauce": {
+              "price": "164",
+              "veg_or_non_veg": "Veg"
+            },
+            "Capsicum Pizza [medium 8 Inches]": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese And Chilli Pizza [medium 8 Inches]": {
+              "price": "269",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Pizza [medium 8 Inches]": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mushroom Pizza [medium 8 Inches]": {
+              "price": "209",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Pizza [medium 8 Inches]": {
+              "price": "194",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Pizza [medium 8 Inches]": {
+              "price": "254",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Pizza [medium 8 Inches]": {
+              "price": "179",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Mathi & Namkeen": {
+            "Pitthi Samosi": {
+              "price": "70",
+              "veg_or_non_veg": "Veg"
+            },
+            "Samosa Mathi": {
+              "price": "72.25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Methi Mathi": {
+              "price": "72.25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Mathi": {
+              "price": "72.25",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kaju Matar [190 Grams]": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Matri [190 Grams]": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Papri [500 Grams]": {
+              "price": "139",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pudina Boondi [190 Grams]": {
+              "price": "75",
+              "veg_or_non_veg": "Veg"
+            },
+            "Plain Boondi [190 Grams]": {
+              "price": "67",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Cake": {
+            "Fruit Cake": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cake [900 Grams]": {
+              "price": "470",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fruit Cake (egg)": {
+              "price": "110",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Pastries": {
+            "Jam Roll Pastry": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Pastry": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Forest Pastry": {
+              "price": "38",
+              "veg_or_non_veg": "Veg"
+            },
+            "Swiss Roll Pastry": {
+              "price": "38",
+              "veg_or_non_veg": "Veg"
+            },
+            "Milk Badam Pastry": {
+              "price": "38",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butterscotch Pastry": {
+              "price": "38",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jelly Pastry": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Strwaberry Pastry": {
+              "price": "23",
+              "veg_or_non_veg": "Veg"
+            },
+            "Vanila Pastry": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pineapple Pastry": {
+              "price": "23",
+              "veg_or_non_veg": "Veg"
+            },
+            "Choco Lava Cake": {
+              "price": "59",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cream Roll": {
+              "price": "22",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Bakery Biscuits": {
+            "Cake Rusk": {
+              "price": "115",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Atta Namkeen Biscuit [400 Grams]": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Atta Sweet Biscuit [400 Grams]": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "French Heart": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Fan": {
+              "price": "52",
+              "veg_or_non_veg": "Veg"
+            },
+            "Suju Rusk": {
+              "price": "45",
+              "veg_or_non_veg": "Veg"
+            },
+            "Atta Biscuit (desi Ghee)": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Pista Finger": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Donuts": {
+            "White Chocolate Donut": {
+              "price": "44",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Donut": {
+              "price": "44",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Navratri Special": {
+            "Pistachio Rabri": {
+              "price": "143",
+              "veg_or_non_veg": "Veg"
+            },
+            "Sabu Dana Lachha Mix": {
+              "price": "74",
+              "veg_or_non_veg": "Veg"
+            },
+            "Badam Lachha": {
+              "price": "74",
+              "veg_or_non_veg": "Veg"
+            },
+            "Potato Papad": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Potato Chips": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Soups": {
+            "Manchow Soup": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tomato Cream Soup": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tomato Soup": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Sweet Corn Soup": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Soup": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/janta-sweet-house-central-abohar-abohar-531342"
+      },
+      "543530": {
+        "name": "GRILL MASTERS",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 250",
+        "address": "GRILL MASTERS, ADA Heights, Abohar - Hanumangarh Rd, Raipura, Abohar, Punjab 152116, India",
+        "cuisine": "Italian-American,Fast Food",
+        "lic_no": "12122201000053",
+        "menu": {
+          "Veg Burgers": {
+            "Junior": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Texas": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "New Yorker": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Crisp": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Giga Bite": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Paneer": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Mountain": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Non-Veg Burgers": {
+            "Compact Burger": {
+              "price": "80",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Bad Boy": {
+              "price": "105",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Big Devil": {
+              "price": "130",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Illegal Burger": {
+              "price": "130",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Grilled Chicken Burger": {
+              "price": "145",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Crispy Chicken Burger": {
+              "price": "160",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "The Heavy Driver": {
+              "price": "185",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Mountain": {
+              "price": "185",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Veg Wraps": {
+            "Veg Wrap": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Wrap": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Tortilla": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Paneer Wrap": {
+              "price": "185",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Non Veg Wraps": {
+            "Chicken Barbeque": {
+              "price": "160",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Crust Wrap": {
+              "price": "170",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Salami Wrap": {
+              "price": "185",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Crispy Chicken Wrap": {
+              "price": "195",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Tikka Wrap": {
+              "price": "195",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Southern Spice": {
+              "price": "185",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Veg Grilled Sandwiches": {
+            "Warm Up Sandwich": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheesy Corn Sandwich": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Wave Sandwich": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Sandwich": {
+              "price": "195",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Non-Veg Grilled Sandwiches": {
+            "Chicken Salami": {
+              "price": "170",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Saucy Mexicano": {
+              "price": "195",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Paradise": {
+              "price": "195",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Fiery Chicken": {
+              "price": "210",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Veg Pizzas": {
+            "Cheese & Onion": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese & Corn": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese & Paneer": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Queen Margherita [Small]": {
+              "price": "185",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veggie Garden [Small]": {
+              "price": "195",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn & Olive [Small]": {
+              "price": "195",
+              "veg_or_non_veg": "Veg"
+            },
+            "Farm Fresh [Small]": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Bingo [Small]": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Pizza [Small]": {
+              "price": "210",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka [Small]": {
+              "price": "235",
+              "veg_or_non_veg": "Veg"
+            },
+            "Grills Special [Small]": {
+              "price": "235",
+              "veg_or_non_veg": "Veg"
+            },
+            "Queen Margherita [Large]": {
+              "price": "325",
+              "veg_or_non_veg": "Veg"
+            },
+            "Corn & Olive [Large]": {
+              "price": "365",
+              "veg_or_non_veg": "Veg"
+            },
+            "Farm Fresh [Large]": {
+              "price": "390",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Bingo [Large]": {
+              "price": "390",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mexican Pizza [Large]": {
+              "price": "390",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka [Large]": {
+              "price": "420",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Exotica [Large]": {
+              "price": "420",
+              "veg_or_non_veg": "Veg"
+            },
+            "Grills Special [Large]": {
+              "price": "420",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese & Capsicum": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veggie Garden [Large]": {
+              "price": "365",
+              "veg_or_non_veg": "Veg"
+            },
+            "The Lord of Cheese [Small]": {
+              "price": "235",
+              "veg_or_non_veg": "Veg"
+            },
+            "The Lord of Cheese [Large]": {
+              "price": "420",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Exotica [Small]": {
+              "price": "235",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Garlic Bread": {
+            "Cheese Garlic Bread": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Loaded Garlic Bread": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Non Veg Pizzas": {
+            "Grilled Chicken Pizza [Small]": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Makhani Pizza [Small]": {
+              "price": "290",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Monster Pizza [Small]": {
+              "price": "300",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Grilled Chicken Pizza [Large]": {
+              "price": "420",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Kebab Pizza [Large]": {
+              "price": "420",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Makhani Pizza [Large]": {
+              "price": "455",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Chicken Pizza [Large]": {
+              "price": "455",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Monster Pizza [Large]": {
+              "price": "495",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Kebab Pizza [Small]": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Chicken Pizza [Small]": {
+              "price": "290",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Pasta-La-Vista": {
+            "Veg White Sauce Pasta": {
+              "price": "185",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Red Sauce Pasta": {
+              "price": "185",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Mix Sauce Pasta": {
+              "price": "195",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Pasta": {
+              "price": "195",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken White Sauce Pasta": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Red Sauce Pasta": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Mix Sauce Pasta": {
+              "price": "260",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Tandoori Pasta": {
+              "price": "260",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Shakespears": {
+            "Vanilla Shake": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Naughty Strawberry": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butterscotch Shake": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Shake": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Currant Shake": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cold Coffee": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Caramel Coffee": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Classic Oreo": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chocolate Oreo": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veryberry Oreo": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Let's Cool Down": {
+            "Lemon Ice Tea": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Virgin Mojito": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peach Mojito": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Blueberry Mojito": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Watermelon Mojito": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Apple Mojito": {
+              "price": "95",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Crispy Chicken": {
+            "Chicken Popcorn": {
+              "price": "210",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Leg [2 Pcs]": {
+              "price": "140",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Wings [6 Pcs]": {
+              "price": "185",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Strips [3 Pcs]": {
+              "price": "145",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Chicken Popcorn": {
+              "price": "235",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Butter Chicken Popcorn": {
+              "price": "235",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Salads": {
+            "Veg Crunch": {
+              "price": "145",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Crunch": {
+              "price": "170",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Salad": {
+              "price": "195",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Protein Diet": {
+              "price": "210",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Fiery Chicken Salad": {
+              "price": "210",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Salami Salad": {
+              "price": "210",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Sides": {
+            "French Fries": {
+              "price": "105",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Fries": {
+              "price": "130",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Loaded Fries": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Potato Pops": {
+              "price": "160",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Nuggets": {
+              "price": "170",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Veggie Fingers": {
+              "price": "185",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Cheese Loaded": {
+              "price": "185",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Extras": {
+            "Cheese Slice": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Salami": {
+              "price": "30",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Cheesy Dip": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Dip": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chilli Garlic Dip": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            },
+            "Island Dip": {
+              "price": "30",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/grill-masters-central-abohar-abohar-543530"
+      },
+      "567335": {
+        "name": "AB FOODS POINT",
+        "rating": "--",
+        "rating_count": "Too Few Ratings",
+        "cost": "₹ 200",
+        "address": "AB FOODS POINT, NEAR RISHI NARANG DENTAL CLINIC , NEAR IDBI BANK, ABOHAR",
+        "cuisine": "Beverages,Pizzas",
+        "lic_no": "22122652000138",
+        "menu": {
+          "Burger": {
+            "Aloo Tikki Burger": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Creamy Burger": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Burst Burger": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Creamy Burger": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Maxican Burger": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Bbq Chicken Burger": {
+              "price": "105",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Chicken Burger": {
+              "price": "105",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Pasta Must Try": {
+            "White Sauce": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Sauce": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pink Sauce": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Pasta": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Pasta": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Pasta": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Chiness Appetizer": {
+            "Noodles": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Singapuri Noodles": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hakka Noodles": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Garlic Noodles": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Noodles": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Dry Manchurian": {
+              "price": "190",
+              "veg_or_non_veg": "Veg"
+            },
+            "Gravy Manchurian": {
+              "price": "200",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilly Dry": {
+              "price": "250",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Chilly Gravy": {
+              "price": "250",
+              "veg_or_non_veg": "Veg"
+            },
+            "Egg Chilly": {
+              "price": "220",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Chicken Chilly": {
+              "price": "260",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Spring Roll [2pc]": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Momos [8pc]": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Honey Chilly Patato": {
+              "price": "165",
+              "veg_or_non_veg": "Veg"
+            },
+            "Honey Chilly Cauliflower": {
+              "price": "165",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Fried Rice": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Fried Rice": {
+              "price": "150",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Fried Chicken": {
+            "Kfc Fried Chicken": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Fried Chicken": {
+              "price": "260",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Sandwich": {
+            "Veg Mayo Sandwich": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Creamy Sandwich": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Bombay Sandwich": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Tikka Sandwich": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Sandwich": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Sandwich": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Egg Sandwich": {
+              "price": "120",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Fries": {
+            "Classical Fries": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Red Chilli Papper": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Creamy Fries": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Fries": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Roll & Wrapes": {
+            "Egg Roll": {
+              "price": "80",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Veg Roll": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Roll": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Roll": {
+              "price": "100",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Chicken Roll [Double]": {
+              "price": "120",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Veg Wrapes": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Wrapes": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Peri Peri Chicken Wrapes": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Egg Wrapes": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            }
+          },
+          "Garlic Bread": {
+            "Simple Garlic Bread": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Garlic Bread": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Stuff Garlic Bread": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "2 Alao Prantha + Dahi": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Prantha": {
+            "Bhature": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spl Tiffen [Desi Ghee]": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Piyaz Prantha Dahi": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Prantha + Dahi": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Stuff Kulcha": {
+            "Veg Kulcha": {
+              "price": "40",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Mayo Kulcha": {
+              "price": "50",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Kulcha": {
+              "price": "60",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Kulcha": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Makhni Kulcha": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Maggie & Pav Bhaji": {
+            "Masala Maggie 2 Packet": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Veg Maggie 2 Packet": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Tandoori Maggie 2 Packet": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Maggie": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Creamy Maggie": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Egg Maggie": {
+              "price": "125",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Pav Bhaji": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Creamy Pav Bhaji": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Mocktails & Cooler": {
+            "Virgin Moijto": {
+              "price": "80",
+              "veg_or_non_veg": "Veg"
+            },
+            "Blue Curracco": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Green Apple": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pinacolado": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "X Mass Punch": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Masala Coke": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            },
+            "Jaljeera": {
+              "price": "65",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Fresh Dough Regular Pizza": {
+            "Margherita Pizza": {
+              "price": "155",
+              "veg_or_non_veg": "Veg"
+            },
+            "Cheese Margherita [Double]": {
+              "price": "180",
+              "veg_or_non_veg": "Veg"
+            },
+            "Capcicum Onion Pizza": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mashroom Corn Pizza": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Only Corn Pizza": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Only Onion Pizza": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            },
+            "Onion Olive Pizza": {
+              "price": "125",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Shakes": {
+            "Vanila Shake": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Choclate Shake": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Staweberry Shake": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Oreo Shake": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Butter Scotch Shake": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Banana Shake": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Pineapple Shake": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Mango Shake": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Blue Berry Shake": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Nutela Shake": {
+              "price": "100",
+              "veg_or_non_veg": "Veg"
+            },
+            "Kit Kat Shake": {
+              "price": "110",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Thick Shake": {
+            "Kit   K at Shake": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Staweberry Oreo Shake": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Black Current Shake": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            },
+            "Brownie Shake": {
+              "price": "120",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Large Pizza": {
+            "Paneer Tikka Pizza": {
+              "price": "230",
+              "veg_or_non_veg": "Veg"
+            },
+            "Spicy Paneer Pizza": {
+              "price": "230",
+              "veg_or_non_veg": "Veg"
+            },
+            "Farm House Pizza": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Country Feast Pizza": {
+              "price": "300",
+              "veg_or_non_veg": "Veg"
+            },
+            "Paneer Makhni Pizza": {
+              "price": "250",
+              "veg_or_non_veg": "Veg"
+            },
+            "Otc Onion Tamato Corn Pizza": {
+              "price": "230",
+              "veg_or_non_veg": "Veg"
+            },
+            "Chicken Pizza": {
+              "price": "300",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Peri Peri Paneer Pizza": {
+              "price": "250",
+              "veg_or_non_veg": "Veg"
+            },
+            "Egg Pizza": {
+              "price": "250",
+              "veg_or_non_veg": "Non-veg"
+            },
+            "Mashroom Pizza": {
+              "price": "250",
+              "veg_or_non_veg": "Veg"
+            },
+            "Ab Special Pizza": {
+              "price": "350",
+              "veg_or_non_veg": "Veg"
+            }
+          },
+          "Cold Coffee": {
+            "Classical Cold Coffee": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Hezelnut Cold Coffee": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            },
+            "Frape Cold Coffee": {
+              "price": "90",
+              "veg_or_non_veg": "Veg"
+            }
+          }
+        },
+        "link": "https://www.swiggy.com/restaurants/ab-foods-point-central-abohar-abohar-567335"
+      }
+    }
+  }
+}

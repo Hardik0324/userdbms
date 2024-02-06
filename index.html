@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<link>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="./style.css"></link> 
+</head>
+<body>
+    <div class="body">
+    <div class="heading">
+        <h1>Employee database management</h1>
+        <button class="add_btn">Add Employee</button>
+    </div>
+    <div class="employee">
+        <div class="employee__list">
+            <h2>Employees</h2>
+            <hr/>
+            <div class="employee__list--table"></div>
+        </div>
+        <div class="employee__detail">
+            <h2>Employee detail</h2>
+            <hr/>
+            <div class="employee__detail--table"></div>
+        </div>
+    </div>
+    </div><form class="form_div">
+        <input type="text"  name="firstName" placeholder="First Name" required />
+        <input type="text" name="lastName" placeholder="Last Name" required />
+        <input type="text" name="email" placeholder="Enter email" required />
+        <input type="text" name="address" placeholder="Enter Address" required />
+        <input type="text" name="avatar" placeholder="Enter avatar url" required />
+        <input type="date" name="dob" placeholder="Enter date-of-birth" required>
+        <input type="submit">
+        <img class="close_btn" src="https://cdn-icons-png.flaticon.com/512/1828/1828778.png">
+    </form>
+</body>
+<script src="./index.js">
+</script>
+</html>

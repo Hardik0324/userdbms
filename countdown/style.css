@@ -1,0 +1,55 @@
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.timer__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 30vw;
+}
+
+.timer__heading, .timer__input, .timer__button{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input__hour, .input__min, .input__sec{
+    height: 60px;
+    width: 30px;
+    border: 0px;
+    font-size: larger;
+}
+
+input:focus{
+    outline: none;
+}
+
+.timer__button>button{
+    border-radius: 5px;
+    padding: 10px 35px;
+    cursor: pointer;
+}
+
+.btn__start{
+    background-color: rgb(9, 243, 9);
+}
+
+.btn__pause{
+    display: none;
+    background-color: orange;
+}
+
+.btn__reset{
+    background-color: orangered;
+}

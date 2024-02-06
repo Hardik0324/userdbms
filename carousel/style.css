@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.continer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.carousel_continer{
+    width: 50vw;
+    height: 60vh;
+    border: 1px solid black;
+    position: relative;
+    /* margin: auto;
+    margin-top: 50px; */
+    overflow: hidden;
+}
+
+.carousel_continer>img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.btn_container{
+    width: 100%;
+    padding: 20px;
+    width: fit-content;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    gap: 10px;
+}

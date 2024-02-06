@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1001",
+    "firstName": "Hardik",
+    "lastName": "Singh",
+    "address": "Address1",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/6996/6996762.png",
+    "dob": "24-03-2001",
+    "email": "hardiksingh24may@gmail.com"
+  },
+  {
+    "id": "1002",
+    "firstName": "Hardik2",
+    "lastName": "Singh",
+    "address": "Address2",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh25may@gmail.com"
+  },
+  {
+    "id": "1003",
+    "firstName": "Hardik3",
+    "lastName": "Singh",
+    "address": "Address3",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh26may@gmail.com"
+  },
+  {
+    "id": "1004",
+    "firstName": "Hardik4",
+    "lastName": "Singh",
+    "address": "Address4",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh27may@gmail.com"
+  },
+  {
+    "id": "1005",
+    "firstName": "Hardik5",
+    "lastName": "Singh",
+    "address": "Address5",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh28may@gmail.com"
+  },
+  {
+    "id": "1006",
+    "firstName": "Hardik6",
+    "lastName": "Singh",
+    "address": "Address6",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh29may@gmail.com"
+  },
+  {
+    "id": "1007",
+    "firstName": "Hardik7",
+    "lastName": "Singh",
+    "address": "Address7",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh30may@gmail.com"
+  },
+  {
+    "id": "1008",
+    "firstName": "Hardik8",
+    "lastName": "Singh",
+    "address": "Address8",
+    "avatar": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+    "dob": "24-03-2001",
+    "email": "hardiksingh31may@gmail.com"
+  }
+]
